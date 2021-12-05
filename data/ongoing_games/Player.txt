@@ -1,0 +1,6 @@
+Level2
+2,1,F,RIGHT,false;6,0,M,RIGHT,false;16,5,F,LEFT,false;15,5,M,RIGHT,false;24,5,F,DOWN,false;31,7,M,LEFT,false;2,12,M,RIGHT,false;7,12,F,RIGHT,false;13,13,M,UP,false;17,16,F,RIGHT,false;31,18,F,DOWN,false;27,19,M,RIGHT,false;13,6,B,UP,false
+
+bomb,1;gas,0;sterilisation,0;poison,0;no_entry,0;death_slime,0;male_sex_change,0;female_sex_change,0;bonus_sex_change,0
+67
+0

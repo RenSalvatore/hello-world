@@ -1,0 +1,6 @@
+Level1
+9,4,F,UP,false;10,7,M,UP,false;1,17,M,DOWN,false;3,18,F,RIGHT,false;7,9,F,UP,false;8,6,M,RIGHT,false;24,4,F,UP,false;23,8,M,DOWN,false;30,13,F,RIGHT,false;26,6,M,LEFT,false;9,8,Mb
+
+bomb,0;gas,0;sterilisation,0;poison,0;no_entry,0;death_slime,0;male_sex_change,0;female_sex_change,0;bonus_sex_change,0
+144
+0
